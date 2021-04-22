@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![XiaoLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sev7e0&show_icons=true&theme=radical)](https://github.com/sev7e0/github-readme-stats)
+[![XiaoLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sev7e0&show_icons=true&theme=tokyonight)](https://github.com/sev7e0/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sev7e0&hide=javascript,html,c,tcl,FreeMarker)](https://github.com/sev7e0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sev7e0&hide=javascript,html,c,tcl,FreeMarker&theme=tokyonight)](https://github.com/sev7e0/github-readme-stats)
 
 
 <!--
