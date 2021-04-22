@@ -1,5 +1,4 @@
 ### Hi there 👋
-I’m XiaoLi
 
 [![XiaoLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sev7e0&show_icons=true&theme=radical)](https://github.com/sev7e0/github-readme-stats)
 
